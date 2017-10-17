@@ -1,0 +1,14 @@
+{
+  "name": "close-tab-on-the-right-side-which-is-the-left-side",
+  "main": "",
+  "version": "1.0.0",
+  "description": "Just close it on the left.",
+  "keywords": [],
+  "activationCommands": {},
+  "repository": "https://github.com/jirsbek/close-tab-on-the-right-side-which-is-the-left-side",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
